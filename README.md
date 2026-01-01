@@ -12,7 +12,7 @@ I am particularly interested in how **logic** (Math) and **human thought** (Phil
 
 * **[Philosophy](./philosophy-repo-name):** Studying the foundations of philosophy to better understand the nature of our world.
 * **[Mathematics](./math-repo-name):** Independent studies in advanced mathematics.
-**[Projects](./project-repo-name):** Personal research and reflections on my own ideas and questions.
+* **[Projects](./project-repo-name):** Personal research and reflections on my own ideas and questions.
 
 ##  Interests
 - **Interests:** Logic, mathematics , science
